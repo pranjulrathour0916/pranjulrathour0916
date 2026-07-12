@@ -5,7 +5,7 @@ DevOps Engineer • Cloud Enthusiast • Kubernetes • AWS • Automation
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+Cloud+Learner;Kubernetes+Enthusiast;Infrastructure+as+Code;CI%2FCD+Automation;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Team Lead;DevOps+Engineer;AWS+Cloud+Learner;Kubernetes+Enthusiast;Infrastructure+as+Code;CI%2FCD+Automation;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
