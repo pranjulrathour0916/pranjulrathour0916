@@ -165,9 +165,9 @@ Full Stack E-Commerce Platform
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjulrathour0916&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjulrathour0916&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -177,7 +177,7 @@ Full Stack E-Commerce Platform
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pranjulrathour0916&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -187,7 +187,7 @@ Full Stack E-Commerce Platform
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjulrathour0916&theme=tokyo-night"/>
 
 </p>
 
@@ -197,7 +197,7 @@ Full Stack E-Commerce Platform
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranjulrathour0916&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -207,7 +207,7 @@ Full Stack E-Commerce Platform
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/pranjulrathour0916/pranjulrathour0916/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -295,7 +295,7 @@ Monitoring
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=pranjulrathour0916&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 
