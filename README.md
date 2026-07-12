@@ -193,26 +193,6 @@ Full Stack E-Commerce Platform
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranjulrathour0916&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📅 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/pranjulrathour0916/pranjulrathour0916/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 ```text
